@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1Sorting/HW1Sorting.iml" filepath="$PROJECT_DIR$/HW1Sorting/HW1Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2DoubleSorting/HW2DoubleSorting.iml" filepath="$PROJECT_DIR$/HW2DoubleSorting/HW2DoubleSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3DoubleStack/HW3DoubleStack.iml" filepath="$PROJECT_DIR$/HW3DoubleStack/HW3DoubleStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4Lfraction/HW4Lfraction.iml" filepath="$PROJECT_DIR$/HW4Lfraction/HW4Lfraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5Tnode/HW5Tnode.iml" filepath="$PROJECT_DIR$/HW5Tnode/HW5Tnode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW6GraphTask/HW6GraphTask.iml" filepath="$PROJECT_DIR$/HW6GraphTask/HW6GraphTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW7Puzzle/HW7Puzzle.iml" filepath="$PROJECT_DIR$/HW7Puzzle/HW7Puzzle.iml" />
+    </modules>
+  </component>
+</project>
